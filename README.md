@@ -6,3 +6,7 @@ training python for statistics
 
 
 Inline `code` has `back-ticks around` it.
+```python
+s = "Python syntax highlighting"
+print s
+```
