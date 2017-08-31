@@ -1,6 +1,6 @@
 # Statistics_Python 
 
-Training python for statistics :octocat:  :game_die:
+Training python for statistics :octocat:  
 
 
 ## Chapter 1
