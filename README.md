@@ -28,5 +28,5 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 <a href="https://www.youtube.com/watch?v=KWGrPNqz4uc
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
