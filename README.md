@@ -1,5 +1,6 @@
-# Statistics_Python :octocat:
-training python for statistics
+# Statistics_Python 
+
+training python for statistics :octocat:
 
 
 ## Chapter 1
