@@ -28,5 +28,6 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 <a href="https://www.youtube.com/watch?v=KWGrPNqz4uc
-" target="_blank"><img src="/home/safouane/Images/Capture du 2017-08-31 01:20:41.png" 
+" target="_blank"><img src="" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+$equation$
