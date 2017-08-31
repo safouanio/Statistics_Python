@@ -27,8 +27,7 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-<a href="https://www.youtube.com/watch?v=KWGrPNqz4uc
-" target="_blank"><img src="https://github.com/safouanio/Statistics_Python/blob/master/Capture%20du%202017-08-31%2001:20:41.png" 
+<a href="" target="_blank"><img src="" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
